@@ -1,0 +1,16 @@
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\bin\Debug\Calcular Bhaskara.exe.config
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\bin\Debug\Calcular Bhaskara.exe
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\bin\Debug\Calcular Bhaskara.pdb
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular Bhaskara.csproj.AssemblyReference.cache
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular Bhaskara.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular_Bhaskara.Properties.Resources.resources
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular Bhaskara.csproj.GenerateResource.cache
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular Bhaskara.exe
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular Bhaskara.pdb
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular_Bhaskara.Bhaskara.resources
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\bin\Debug\Calcular Bhaskara.exe.manifest
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\bin\Debug\Calcular Bhaskara.application
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular Bhaskara.TrustInfo.xml
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular Bhaskara.exe.manifest
+C:\Users\jhones\Documents\Aula Thiago Traue\Bhaskara\Calcular Bhaskara\obj\Debug\Calcular Bhaskara.application
